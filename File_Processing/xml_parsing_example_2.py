@@ -21,3 +21,4 @@ for item in lst:
     print("Name : ", item.find('name').text)
     print("ID : ", item.find('id').text)
     print("Attribute : ", item.get('x'))
+
